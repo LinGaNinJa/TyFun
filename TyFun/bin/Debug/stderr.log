@@ -1,0 +1,4 @@
+objc[23386]: Class AMSupportURLConnectionDelegate is implemented in both /System/Library/PrivateFrameworks/EmbeddedOSInstall.framework/Versions/A/EmbeddedOSInstall (0x7fffb0b09748) and /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1108c5368). One of the two will be used. Which one is undefined.
+objc[23386]: Class AMSupportURLSession is implemented in both /System/Library/PrivateFrameworks/OSPersonalization.framework/Versions/A/OSPersonalization (0x7fffb1e339f0) and /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1108c53b8). One of the two will be used. Which one is undefined.
+2018-06-14 12:26:02.341 TyFun[23386:2482107] Failed to connect (InputArea) outlet from (ViewController) to (NSTextField): missing setter or instance variable
+2018-06-14 12:26:02.342 TyFun[23386:2482107] Could not connect action, target class ViewController does not respond to -InputArea:

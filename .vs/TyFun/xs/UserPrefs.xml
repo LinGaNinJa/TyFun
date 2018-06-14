@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{3E06B879-2D87-4C92-A48C-24BED64209A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TyFun/ParagraphMode.cs">
+    <Files>
+      <File FileName="TyFun/ViewController.cs" Line="75" Column="50" />
+      <File FileName="TyFun/Info.plist" />
+      <File FileName="TyFun/Main.cs" Line="11" Column="1" />
+      <File FileName="TyFun/GameMode.cs" Line="12" Column="34" />
+      <File FileName="TyFun/Game.cs" Line="57" Column="31" NotebookId="1" />
+      <File FileName="TyFun/ParagraphMode.cs" Line="10" Column="10" NotebookId="1" />
+      <File FileName="TyFun/User.cs" Line="39" Column="30" NotebookId="1" />
+      <File FileName="TyFun/Judgement.cs" Line="15" Column="10" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TyFun PreferredExecutionTarget="Test1" />
+</Properties>

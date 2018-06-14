@@ -1,0 +1,15 @@
+/Users/linjialong/Projects/TyFun/TyFun/bin/Debug/TyFun.exe
+/Users/linjialong/Projects/TyFun/TyFun/bin/Debug/TyFun.pdb
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/actool/partial-info.plist
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/actool/asset-manifest.plist
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/actool/bundle/AppIcon.icns
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/actool/bundle/Assets.car
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/TyFun.csprojResolveAssemblyReference.cache
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/TyFun.csproj.CoreCompileInputs.cache
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/TyFun.exe
+/Users/linjialong/Projects/TyFun/TyFun/obj/x86/Debug/TyFun.pdb
