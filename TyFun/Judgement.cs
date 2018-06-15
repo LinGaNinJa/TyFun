@@ -57,17 +57,17 @@ namespace TyFun
             uTime = t;
         }
 
-        public void SetUser(string s)
+        public void SetInput(string s)
         {
             uContent = s;
         }
 
-        public void SetUser(int i)
+        public void SetInput(int i)
         {
             uLength = i;
         }
 
-        public void SetUser(TimeSpan t)
+        public void SetInput(TimeSpan t)
         {
             uTime = t;
         }

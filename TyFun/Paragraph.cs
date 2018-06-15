@@ -5,7 +5,6 @@ namespace TyFun
     {
         private string content; // 內容
         private int length; // 長度
-        private TimeSpan timeSpan; // 時間
 
         public string Content
         {
@@ -18,13 +17,6 @@ namespace TyFun
             set { length = value; }
             get { return length; }
         }
-
-        public TimeSpan TimeSpan
-        {
-            set { timeSpan = value; }
-            get { return timeSpan; }
-        }
-
 
         public Paragraph() { }
 

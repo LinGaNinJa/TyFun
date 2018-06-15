@@ -45,7 +45,6 @@ namespace TyFun
                 typingContent += charList[j];
             }
 
-            paragraph.TimeSpan = stopWatch.Elapsed; // 總時長
             paragraph.Content = typingContent;
             paragraph.Length = typingContent.Length;
         }
@@ -61,9 +60,5 @@ namespace TyFun
             return paragraph.Length;
         }
 
-        public TimeSpan GetTimeSpan()
-        {
-            return paragraph.TimeSpan;
-        }
     }
 }

@@ -54,7 +54,7 @@ namespace TyFun
         private void Play()
         {
             user.Start();
-            judgement.SetInput(user.GetContent(), user.GetLength(), user.GetTimeSpan());
+            //judgement.SetInput(user.GetContent(), user.GetLength(), user.GetTimeSpan());
             judgement.Rate();
         }
 
